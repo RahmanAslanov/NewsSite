@@ -1,0 +1,37 @@
+h1{
+    background-color: black;
+    color: white;
+    padding-left: 10%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-top: 0;
+}
+
+h6{
+    background-color: black;
+    color: white;
+    font-size: medium;
+    padding-left: 10%;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.white {
+    color: white;
+}
+
+.no-line{
+    text-decoration: none;
+    color: white;
+}
+.no-line2{
+    text-decoration: none;
+    color: black;
+}
+.gray{
+    color:gray;
+}
+
+.bold{
+    font-weight:bold;
+}
