@@ -35,3 +35,18 @@ h6{
 .bold{
     font-weight:bold;
 }
+
+.sign{
+    color: black; 
+    background-color: white;
+     margin-left: 70%;
+     cursor: pointer;
+     border: 0;
+     border-radius: 4px;
+     font-weight: 600;
+     /* margin: 0 10px; */
+     width: 200px;
+     padding: 10px 0;
+     box-shadow: 0 0 20px rgba(104, 85, 224, 0.2);
+     transition: 0.4s;
+}
